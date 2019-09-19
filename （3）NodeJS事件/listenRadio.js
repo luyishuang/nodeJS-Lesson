@@ -8,7 +8,7 @@
 //     console.log("lalala");
 // })
 
-const radio = require("./radio.js").radio;
+const radio = require("./radio.js").Radio;
 
 var name = process.argv[2];
 var hz = process.argv[3];
